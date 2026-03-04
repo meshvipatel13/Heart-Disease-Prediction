@@ -69,6 +69,3 @@ Model Accuracy:0.88  *(Update with your real accuracy)*
 
 ![App Screenshot](APP/assets/screenshot.png)
 
-## ⚙️ How to Run Locally
-
-1️⃣ Clone the repository:
