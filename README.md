@@ -67,7 +67,7 @@ Model Accuracy:0.88  *(Update with your real accuracy)*
 ---
 ## 📸 Application Preview
 
-![App Screenshot](APP/assets/screenshot.png)
+![App Screenshot](APP/Assets/screenshot.png)
 
 
 ## 👩‍💻 Author
