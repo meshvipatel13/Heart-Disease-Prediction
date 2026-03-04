@@ -69,3 +69,6 @@ Model Accuracy:0.88  *(Update with your real accuracy)*
 
 ![App Screenshot](APP/assets/screenshot.png)
 
+
+## 👩‍💻 Author
+Meshvi Patel
